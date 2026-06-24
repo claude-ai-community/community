@@ -19,6 +19,7 @@
 - `skills/` — 可直接装进 Claude Code 的 skill 文件
 - `prompts/` — prompt 模板，复制后直接用
 - `wiki/` — 知识库条目（Markdown）
+- `笔记/` — 会议记录、idea、心得体会
 
 ---
 
