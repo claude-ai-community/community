@@ -1,6 +1,6 @@
-# 炒股分析
+# 金融分析
 
-个股/市场分析自动化，prompt pipeline 模板。
+股票/市场/基金分析自动化，prompt pipeline 模板。
 
 ## 目录说明
 - `skills/` — Claude Code skill 文件
