@@ -7,3 +7,17 @@
 - `prompts/` — 通用场景 prompt 模板
 - `wiki/` — 知识库条目（Markdown）
 - `笔记/` — 会议记录、idea、心得体会
+
+## 内容列表
+
+### skills
+（暂无）
+
+### prompts
+（暂无）
+
+### wiki
+（暂无）
+
+### 笔记
+（暂无）
